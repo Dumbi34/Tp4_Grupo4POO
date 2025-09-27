@@ -47,4 +47,4 @@ public class Producto {
                 ", Precio: " + precio +
                 ", Vencimiento: " + fechaDeVencimiento;
     }
-}
+} 

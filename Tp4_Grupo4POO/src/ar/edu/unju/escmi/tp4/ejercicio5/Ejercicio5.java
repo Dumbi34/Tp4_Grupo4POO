@@ -9,7 +9,7 @@ import java.util.TreeMap;
 public class Ejercicio5{
 
     public static void main(String[] args) {
-        
+
         TreeMap<Integer, Producto> productos = new TreeMap<>();
         Scanner scanner = new Scanner(System.in);
         int opcion;
@@ -116,4 +116,4 @@ public class Ejercicio5{
         scanner.close();
     }
     
-}
+} 

@@ -91,4 +91,4 @@ public class Ejercicio2 {
         scanner.close();
     }
 }
-//ejercicio 2
+ 
